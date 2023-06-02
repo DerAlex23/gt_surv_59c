@@ -1,0 +1,9 @@
+/shared/constants.as;
+/shared/files.as;
+
+generic/playerclasses.as;
+generic/matchstates.as;
+generic/bots.as;
+empty.as;
+
+legacy/quake1.as;
